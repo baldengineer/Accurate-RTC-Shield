@@ -1,4 +1,4 @@
-The DS3212 is a Precise Real-Time Clock from Maxim.  It requires almost no external components and is temperature compensated.  This chip solves some of the RTC issues associated with the DS1307.
+The DS3231 is a Precise Real-Time Clock from Maxim.  It requires almost no external components and is temperature compensated.  This chip solves some of the RTC issues associated with the DS1307.
 
 This Arduino shield will make it simple to add a RTC to any project, especially one where lost time is not acceptable.
 

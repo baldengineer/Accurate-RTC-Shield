@@ -8252,7 +8252,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="U1" library="Add-Ohms" deviceset="ARDUINO_SHIELD" device="LABEL"/>
 <part name="JP1" library="SparkFun" deviceset="M02" device="PTH" value="I2C_HDR"/>
 <part name="JP2" library="SparkFun" deviceset="M02" device="PTH" value="IOREF"/>
-<part name="U$2" library="Add-Ohms" deviceset="DS3231" device="" value="DS3212"/>
+<part name="U$2" library="Add-Ohms" deviceset="DS3231" device="" value="DS3231"/>
 <part name="R1" library="Add-Ohms" deviceset="RESISTOR" device="1206"/>
 <part name="R2" library="Add-Ohms" deviceset="RESISTOR" device="1206"/>
 <part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
